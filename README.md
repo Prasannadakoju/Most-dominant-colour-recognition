@@ -1,4 +1,4 @@
 # Most-dominant-colour-recognition
-The project presents a sophisticated machine learning model designed to classify customer sentiment from product reviews. By harnessing natural language processing (NLP) techniques, the model accurately interprets and categorizes emotions expressed in textual feedback on a scale of 10. This automated sentiment analysis tool empowers businesses to gain deeper insights into customer satisfaction.
+The project is an advanced color analysis tool that identifies and returns the five most dominant colors from any given image. Utilizing sophisticated image processing algorithms, the platform extracts color data, analyzes the frequency and prominence of colors within the image, and provides users with a palette of the top five colors. This tool is invaluable for designers, artists, and marketers who need to quickly understand and utilize color schemes from various visual inputs.
 
-The tech stack for the sentiment analysis project includes machine learning algorithms for NLP, data processing libraries, and a backend framework to manage the application’s operations and user interactions.
+The project leverages the OpenCV library for robust image processing and the imutils package for streamlined image manipulation, providing a powerful combination for color analysis and extraction.
